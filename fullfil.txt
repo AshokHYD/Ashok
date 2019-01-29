@@ -12,6 +12,10 @@
         </sequence>
     </complexType>
  </element>
+  
+   < element
+
+   >
 
  <complexType name="FulfillmentType">
     <sequence>
